@@ -1,13 +1,14 @@
+### coming soon! 🔥
+
+--------
+
+
 ### Languages
-[![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-orange?logoColor=white)](https://java.com/)
 [![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
-[![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
 ### IDE & Tools
-[![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-
+[![Android Studio](https://img.shields.io/badge/Android_Studio-red?logo=AndroidStudio)](https://developer.android.com/studio)
 
 ### Contact With us
-[![Email](https://img.shields.io/badge/Email-python--bale--bot@googlegroups.com-blue?logo=Gmail&logoColor=white)](mailto:python-bale-bot@googlegroups.com)
-[![Discord](https://img.shields.io/badge/Support_Server-red?logo=Discord&logoColor=white)](https://discord.gg/bYHEzyDe2j)
+[![Email](https://img.shields.io/badge/Email-dastyarmafia@googlegroups.com-blue?logo=Gmail&logoColor=white)](mailto:dastyarmafia@googlegroups.com)
